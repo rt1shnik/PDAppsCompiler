@@ -39,7 +39,7 @@ dependencies {
     implementation 'com.google.android.material:material:1.3.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
     implementation project(':dx')
-    implementation 'org.eclipse.jdt.core.compiler:ecj:4.6.1'
+    implementation 'org.eclipse.jdt:ecj:3.25.0'
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
